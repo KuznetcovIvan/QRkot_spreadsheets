@@ -6,7 +6,6 @@
 [![Pydantic](https://img.shields.io/badge/Pydantic-1.x-brightgreen)](https://pydantic-docs.helpmanual.io/)
 [![Alembic](https://img.shields.io/badge/Alembic-Migrations-yellow)](https://alembic.sqlalchemy.org/)
 [![FastAPI Users](https://img.shields.io/badge/FastAPI--Users-12.x-blueviolet)](https://frankie567.github.io/fastapi-users/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-API-blue?logo=googlecloud)](https://cloud.google.com/apis)
 [![Aiogoogle](https://img.shields.io/badge/Aiogoogle-0.17.1-brightgreen)](https://github.com/omarryhan/aiogoogle)
 
 
